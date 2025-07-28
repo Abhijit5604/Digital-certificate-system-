@@ -84,11 +84,14 @@ Unit and integration tests: Jest / Pytest
 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contract Address
+# Contract Address
 0xf241B9A0dDeb74036Be1dbFBF0927fCB9af4E695
 
 📬 Contact
 For questions or support, email: abhijitkalita104@gmail.com
+
+<img width="1583" height="827" alt="image" src="https://github.com/user-attachments/assets/082ba3d2-88b3-436a-8930-c572ae5a31da" />
+
 
 yaml
 Copy
