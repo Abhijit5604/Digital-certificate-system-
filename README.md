@@ -90,7 +90,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 📬 Contact
 For questions or support, email: abhijitkalita104@gmail.com
 
-<img width="1583" height="827" alt="image" src="https://github.com/user-attachments/assets/082ba3d2-88b3-436a-8930-c572ae5a31da" />
+<img width="1584" height="828" alt="Screenshot 2025-07-28 125757" src="https://github.com/user-attachments/assets/269e0a72-c514-4367-ab25-a979e47de6c2" />
+
 
 
 yaml
